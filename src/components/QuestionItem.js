@@ -16,7 +16,7 @@ function QuestionItem({ question , onDelete }) {
 
   return (
     <li >
-      <h4>lorem testum {id}</h4>
+      <h4>Question {id}</h4>
       <h5>Prompt: {prompt}</h5>
       <label>
         Correct Answer:
